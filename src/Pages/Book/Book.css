@@ -1,0 +1,29 @@
+.ff{
+    width: 100vw;
+    height: 100vh;
+    position: fixed; /* Фиксированное положение */
+    background-image: url("../../../public/emil-widlund-xrbbXIXAWY0-unsplash.jpg")  ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    overflow-y: scroll;    
+}
+
+.z{ 
+    backdrop-filter: blur(3px);
+    box-sizing: padding-box;
+    -moz-box-sizing: padding-box;
+    -webkit-box-sizing: padding-box;
+    padding-bottom: 60px;
+    min-height: 95vh;
+}
+.btnsb{
+    margin: 0px;
+    top: 8px;
+    right: 660px;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+}

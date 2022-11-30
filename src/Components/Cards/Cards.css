@@ -1,0 +1,27 @@
+.cards {
+    /* border: 2px solid #000000; */
+    border-radius: 10px;
+  }
+  
+  .content {
+    padding: 10px;
+  }
+  
+  .carda {
+    background: rgba(255, 255, 255, 0.9);
+  } 
+  
+  .badgec {
+    z-index: 3;
+    right: 20px;
+    top: 10px;
+    font-size: 17px;
+    height: 30px;
+  }
+
+  .badgef {
+    right: 52px;
+    top: 10px;
+    font-size: 17px;
+    height: 30px;
+  }

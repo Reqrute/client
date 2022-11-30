@@ -1,0 +1,89 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    position: fixed; /* Фиксированное положение */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: auto;
+    overflow-y: scroll; 
+}
+
+.A{
+    background-image: url("../../../public/markus-spiske-L27hLo9jTWY-unsplash.jpg")  ;
+}
+
+.L{
+    background-image: url("../../../public/library.jpg")  ;
+}
+
+
+
+.B{
+    background-image: url("../../../public/emil-widlund-xrbbXIXAWY0-unsplash.jpg")  ;
+}
+
+.C{
+    background-image: url("../../../public/rabie-madaci-ElM0m5T6_dw-unsplash.jpg")  ;
+}
+
+.sub {
+    box-sizing: padding-box;
+    -moz-box-sizing: padding-box;
+    -webkit-box-sizing: padding-box;
+    padding-bottom: 60px;
+    backdrop-filter: blur(3px);
+    min-height: 95vh;
+}
+
+.cards {
+    border-radius: 10px;
+  }
+  
+  .content {
+    padding: 10px;
+  }
+  
+  .carda {
+    background: rgba(255, 255, 255, 0.9);
+  } 
+
+  .mm {
+    width: 300px;
+  }
+
+  .deletebtn{
+    z-index: 3;
+    right: 20px;
+    top: 10px;
+    font-size: 17px;
+    height: 30px;
+    width: 30px;
+  }
+
+  .btnChange{
+    right: 52px;
+    top: 10px;
+    font-size: 17px;
+    height: 30px;
+    width: 30px;
+  }
+
+
+  .deletebtnC{
+    z-index: 3;
+    right: 10px;
+    top: 10px;
+    font-size: 17px;
+    height: 30px;
+    width: 30px;
+  }
+
+  .btnChangeC{
+    left: 10px;
+    top: 10px;
+    font-size: 17px;
+    height: 30px;
+    width: 30px;
+  }
